@@ -1,5 +1,6 @@
-![Github pidmindiz](https://www.afritechmedia.com/wp-content/uploads/2021/05/5-Things-You-Must-Know-as-A-Software-Developer--800x340.jpg)
-
+<p align='center'>
+<img src="https://pidmi.tech/pidmi.jpg" height="100">
+</p>
 
 ### Hi friends 👋
 
