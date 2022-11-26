@@ -6,7 +6,7 @@
 
 <p align='justify'>First! Call me pid 😄. I have been a developer since I was 16 years old when you had to do your own function to the ajax. I love the future, it's getting easier to program and it always comes with new challenges.</p> 
 
-<p align='justify'>Currently working on the world of automated deliveries. My recently project is about automated deliveries for rural areas. I’m learning docker, kubernets and how to know improve my personal brand on the web. </p>
+<p align='justify'>Currently working on Gacela Delivery. I’m learning docker, kubernets and how to know improve my personal brand on the web. </p>
 
 <p align='justify'>⚡ Fun fact: I have been programming for 16 years and only in 2022 have I improved my github profile. Thanks to PLATZI 😄</p>
 
