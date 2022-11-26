@@ -1,3 +1,6 @@
+![Github pidmindiz](https://www.afritechmedia.com/wp-content/uploads/2021/05/5-Things-You-Must-Know-as-A-Software-Developer--800x340.jpg)
+
+
 ### Hi friends 👋
 
 <p align='justify'>First! Call me pid 😄. I have been a developer since I was 16 years old when you had to do your own function to the ajax. I love the future, it's getting easier to program and it always comes with new challenges.</p> 
